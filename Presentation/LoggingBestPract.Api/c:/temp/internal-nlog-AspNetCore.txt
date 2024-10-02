@@ -1,0 +1,34 @@
+2024-09-30 08:54:02.2671 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-09-30 08:54:02.2749 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-09-30 08:54:02.2749 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-09-30 08:54:02.2783 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-09-30 08:54:02.3570 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/yasin.koc/RiderProjects/YoutubeApi-OnionCQRS/Presentation/YoutubeApi.Api/bin/Debug/net7.0/nlog.config
+2024-09-30 08:54:02.3635 Info Configuration initialized.
+2024-09-30 08:54:02.6530 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/yasin.koc/RiderProjects/YoutubeApi-OnionCQRS/Presentation/YoutubeApi.Api/bin/Debug/net7.0/nlog.config
+2024-09-30 09:13:42.0229 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-09-30 09:13:42.0396 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-09-30 09:13:42.0408 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-09-30 09:13:42.0469 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-09-30 09:13:42.1964 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/yasin.koc/RiderProjects/YoutubeApi-OnionCQRS/Presentation/YoutubeApi.Api/bin/Debug/net7.0/nlog.config
+2024-09-30 09:13:42.2068 Info Configuration initialized.
+2024-09-30 09:13:42.8510 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/Users/yasin.koc/RiderProjects/YoutubeApi-OnionCQRS/Presentation/YoutubeApi.Api/bin/Debug/net7.0/nlog.config
+2024-09-30 09:24:11.0926 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-09-30 09:24:11.0997 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-09-30 09:24:11.1000 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-09-30 09:24:11.1011 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target with unknown type-alias: 'Seq' - Verify type-alias and check extension is included.
+   at NLog.Config.FactoryExtensions.CreateInstance[TBaseType](IFactory`1 factory, String typeAlias)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String typeName, IFactory`1 factory)
+2024-09-30 09:24:11.1232 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-09-30 09:24:11.1887 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=50, FilePath=/Users/yasin.koc/RiderProjects/YoutubeApi-OnionCQRS/Presentation/YoutubeApi.Api/bin/Debug/net7.0/nlog.config
+2024-09-30 09:24:11.1954 Info Configuration initialized.
+2024-09-30 09:24:11.5114 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=50, FilePath=/Users/yasin.koc/RiderProjects/YoutubeApi-OnionCQRS/Presentation/YoutubeApi.Api/bin/Debug/net7.0/nlog.config
+2024-09-30 11:04:33.6239 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-09-30 11:04:33.6313 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-09-30 11:04:33.6313 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-09-30 11:04:33.6328 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target with unknown type-alias: 'Seq' - Verify type-alias and check extension is included.
+   at NLog.Config.FactoryExtensions.CreateInstance[TBaseType](IFactory`1 factory, String typeAlias)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String typeName, IFactory`1 factory)
+2024-09-30 11:04:33.6553 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2024-09-30 11:04:33.7392 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=50, FilePath=/Users/yasin.koc/RiderProjects/YoutubeApi-OnionCQRS/Presentation/YoutubeApi.Api/bin/Debug/net7.0/nlog.config
+2024-09-30 11:04:33.7456 Info Configuration initialized.
+2024-09-30 11:04:34.0515 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=50, FilePath=/Users/yasin.koc/RiderProjects/YoutubeApi-OnionCQRS/Presentation/YoutubeApi.Api/bin/Debug/net7.0/nlog.config
